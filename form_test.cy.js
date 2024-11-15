@@ -1,4 +1,4 @@
-﻿describe('Тесты формы обратной связи', () => {
+﻿describe('Тест формы обратной связи', () => {
 
     it('Тест-кейс 1', () => {
         cy.visit('https://kontaktnaya-forma.testograf.ru');
